@@ -21,11 +21,11 @@ A cross-platform task manager that uses Back4App (Parse Server) for authenticati
 ### Task List
 ![](screenshots/taskList.png)
 
-### Creating a New Task
-![](screenshots/newTask.png)
-
-### Task List with Tasks
+### Create a new task
 ![](screenshots/editTask.png)
+
+### Edit task
+![](screenshots/newTask.png)
 
 </div>
 
