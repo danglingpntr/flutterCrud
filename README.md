@@ -8,6 +8,27 @@ A cross-platform task manager that uses Back4App (Parse Server) for authenticati
 - Real-time syncing powered by Parse LiveQuery – updates appear instantly
 - Secure logout that clears the cached session on device
 
+## Screenshots
+
+<div align="center">
+  
+### Login Screen
+<img src="screenshots/Screenshot 2025-11-16 at 9.46.14 PM.png" width="300" alt="Login Screen">
+
+### Registration Screen  
+<img src="screenshots/Screenshot 2025-11-16 at 9.46.48 PM.png" width="300" alt="Registration Screen">
+
+### Task List - Empty State
+<img src="screenshots/Screenshot 2025-11-16 at 9.47.05 PM.png" width="300" alt="Empty Task List">
+
+### Creating a New Task
+<img src="screenshots/Screenshot 2025-11-16 at 9.47.19 PM.png" width="300" alt="Create Task">
+
+### Task List with Tasks
+<img src="screenshots/Screenshot 2025-11-16 at 9.47.37 PM.png" width="300" alt="Task List">
+
+</div>
+
 ## Requirements
 - Flutter 3.10+
 - A Back4App application with REST + LiveQuery enabled
