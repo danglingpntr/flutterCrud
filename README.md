@@ -13,19 +13,19 @@ A cross-platform task manager that uses Back4App (Parse Server) for authenticati
 <div align="center">
   
 ### Login Screen
-<img src="screenshots/Screenshot 2025-11-16 at 9.46.14 PM.png" width="300" alt="Login Screen">
+![](screenshots/welcome.png)
 
 ### Registration Screen  
-<img src="screenshots/Screenshot 2025-11-16 at 9.46.48 PM.png" width="300" alt="Registration Screen">
+![](screenshots/registration.png)
 
-### Task List - Empty State
-<img src="screenshots/Screenshot 2025-11-16 at 9.47.05 PM.png" width="300" alt="Empty Task List">
+### Task List
+![](screenshots/taskList.png)
 
 ### Creating a New Task
-<img src="screenshots/Screenshot 2025-11-16 at 9.47.19 PM.png" width="300" alt="Create Task">
+![](screenshots/newTask.png)
 
 ### Task List with Tasks
-<img src="screenshots/Screenshot 2025-11-16 at 9.47.37 PM.png" width="300" alt="Task List">
+![](screenshots/editTask.png)
 
 </div>
 
